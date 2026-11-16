@@ -1,0 +1,474 @@
+{
+  "project": "LaunchReady Gaming Creative V4",
+  "created": "2026-11-16",
+  "claim_cutoff": "2026-11-16",
+  "brandId": 8142940,
+  "carousels": [
+    {
+      "id": "C06_PHYSICAL",
+      "caption": "GTA VI physical edition: a box, but no disc. Rockstar says the retail Standard Edition includes a download code. Check account/code region before purchasing, especially on PlayStation. Xbox codes are not region-locked according to Rockstar. Use our free region checker via link in bio. Independent fan guide. #GTA6 #GTAVI #PhysicalEdition #PS5",
+      "slides": [
+        {
+          "title": "PHYSICAL GTA VI\nNO DISC?",
+          "desc": "Yes. Rockstar confirms a digital code inside the physical Standard box.",
+          "graphic": "box",
+          "eyebrow": "BUYER WARNING",
+          "tag": "SWIPE BEFORE BUYING",
+          "alt": "Cover slide: LaunchReady Gaming explains that the GTA VI physical Standard Edition is code-in-box rather than a game disc. A stylized original illustration shows a retail-style box and the text download code, no disc."
+        },
+        {
+          "title": "WHAT IS\nIN THE BOX?",
+          "desc": "A redeemable download code for GTA VI. No game disc. The physical box is not a disc-install edition.",
+          "graphic": "box",
+          "tag": "YOU STILL DOWNLOAD THE GAME",
+          "alt": "Slide two explains Rockstar’s confirmed physical GTA VI format: a retail box with a digital download code rather than a disc, so installation requires downloading the game."
+        },
+        {
+          "title": "CHECK THE\nACCOUNT REGION",
+          "desc": "PlayStation: the code region must match your account region group. Xbox codes are not region-locked, per Rockstar.",
+          "graphic": "platform",
+          "tag": "PLATFORM RULES DIFFER",
+          "alt": "Slide three: PlayStation GTA VI code redemption follows account region groups; Rockstar says Xbox download codes are not region-locked. Players should check their platform account and retail region before buying."
+        },
+        {
+          "title": "PRE-BUY\nCHECKLIST",
+          "desc": "01 Check console platform.\n02 Check account region.\n03 Verify the retailer and code region.\n04 Redeem on the correct account.",
+          "graphic": "desk",
+          "tag": "AVOID ACTIVATION SURPRISES",
+          "alt": "Slide four presents four practical steps for GTA VI code-in-box shoppers: identify platform, inspect account region, check seller and code region, then redeem with the intended account."
+        },
+        {
+          "title": "CHECK YOUR\nCODE FIRST",
+          "desc": "Open LaunchReady’s free PlayStation Code Region Group Checker. Link in @launchready_gaming bio.",
+          "screenshot": "region_result",
+          "tag": "FREE INTERACTIVE CHECKER",
+          "alt": "Final slide shows an actual result screen from the LaunchReady Gaming PlayStation code region checker with different selected account and purchase regions, inviting users to access the free tool through the profile link."
+        }
+      ]
+    },
+    {
+      "id": "C07_PLATFORMS",
+      "caption": "Which consoles can actually play GTA VI? Rockstar confirms PS5 and Xbox Series X|S launch editions. Xbox One is a cloud-streaming option, not a native GTA VI install. No announced PC or PS4 launch edition in the checked official listing. Read our free guide through the link in bio. Independent fan resource. #GTA6 #XboxOne #PS5 #XboxSeriesX",
+      "slides": [
+        {
+          "title": "CAN YOUR\nCONSOLE PLAY?",
+          "desc": "Do not confuse local installation with cloud streaming.",
+          "graphic": "platform",
+          "tag": "SAVE THIS COMPATIBILITY GUIDE",
+          "alt": "First slide asks where GTA VI can run and previews PS5, Xbox Series X or S as launch platforms and Xbox One as a cloud option."
+        },
+        {
+          "title": "LOCAL\nGAME EDITIONS",
+          "desc": "Rockstar lists PS5 and Xbox Series X|S for pre-order and release. These are the announced native launch platforms.",
+          "graphic": "platform",
+          "tag": "PS5 + XBOX SERIES X|S",
+          "alt": "Second slide confirms Rockstar officially lists PlayStation 5 and Xbox Series X or S for GTA VI console editions at launch."
+        },
+        {
+          "title": "XBOX ONE:\nYES, VIA CLOUD",
+          "desc": "Rockstar announced Xbox Cloud Gaming on Xbox One. That is streaming, not a local Xbox One installation.",
+          "graphic": "platform",
+          "tag": "CONNECTION QUALITY MATTERS",
+          "alt": "Third slide distinguishes GTA VI playable via Xbox Cloud Gaming on Xbox One from an unannounced native Xbox One game installation, with performance dependent on connection conditions."
+        },
+        {
+          "title": "WHAT ABOUT\nPC OR PS4?",
+          "desc": "Neither has a launch edition announced in Rockstar’s current platform FAQ. That does not establish what may happen later.",
+          "graphic": "platform",
+          "tag": "DO NOT INVENT RELEASE DATES",
+          "alt": "Fourth slide explains that Rockstar’s current GTA VI platform list does not announce PC or PlayStation 4 versions for launch and avoids claiming they can never be released."
+        },
+        {
+          "title": "CHECK YOUR\nPLAY OPTIONS",
+          "desc": "See our Xbox Cloud Play guide and console compatibility details. Open profile → free GTA VI tools.",
+          "screenshot": "xbox_initial",
+          "tag": "VIEW THE SOURCE-LINKED GUIDE",
+          "alt": "Final slide displays a real screenshot of LaunchReady Gaming’s Xbox Cloud Play guide explaining the cloud-only Xbox One route, with directions to open the guide from the Instagram profile link."
+        }
+      ]
+    },
+    {
+      "id": "C08_EDITIONS",
+      "caption": "GTA VI Standard vs Ultimate: Standard includes the game. Ultimate adds Rockstar-listed bonus vehicles, styles and other content. Rockstar confirms a separate Ultimate Edition Upgrade is available later, including for physical Standard owners after code redemption. Compare using our free Edition Choice Helper: link in bio. Independent fan resource. #GTA6 #GTAVI #GTA6Ultimate",
+      "slides": [
+        {
+          "title": "STANDARD OR\nULTIMATE?",
+          "desc": "Choose based on the extras, not assumptions about the core game.",
+          "graphic": "editions",
+          "tag": "COMPARE BEFORE PAYING",
+          "alt": "Opening comparison slide asks whether GTA VI Standard or Ultimate is right for the buyer, with original illustrated cards for the two editions."
+        },
+        {
+          "title": "STANDARD:\nTHE FULL GAME",
+          "desc": "Standard includes Grand Theft Auto VI. It does not automatically include the Ultimate Edition upgrade.",
+          "graphic": "editions",
+          "tag": "CORE GAME INCLUDED",
+          "alt": "Slide two: Rockstar’s official FAQ says GTA VI Standard Edition contains the full game, while additional Ultimate upgrades are separate."
+        },
+        {
+          "title": "ULTIMATE:\nEXTRA CONTENT",
+          "desc": "Includes the game plus the published Ultimate upgrade, with vehicles, styling and additional in-game items.",
+          "graphic": "editions",
+          "tag": "NOT A DIFFERENT BASE GAME",
+          "alt": "Third slide lists the Ultimate Edition as the complete GTA VI game plus Rockstar-announced bonus content, including vehicles, styling and other items unveiled through the story."
+        },
+        {
+          "title": "YOU CAN\nUPGRADE LATER",
+          "desc": "Standard owners can buy the Ultimate upgrade separately. Physical Standard owners can upgrade after redeeming their code.",
+          "graphic": "editions",
+          "tag": "NO NEED TO GUESS TODAY",
+          "alt": "Fourth slide clarifies Rockstar permits purchasing the Ultimate Edition Upgrade later, including for physical Standard Edition buyers after their digital code has been redeemed."
+        },
+        {
+          "title": "MAKE A\nBETTER CHOICE",
+          "desc": "Set your priorities in the free Edition Choice Helper. No invented price comparison.",
+          "screenshot": "edition_result",
+          "tag": "LINK IN BIO  /  FREE HELPER",
+          "alt": "Fifth slide embeds a genuine LaunchReady Gaming Edition Choice Helper result with Ultimate digital and extra content selected, explaining that the site offers information rather than a live price quote."
+        }
+      ]
+    },
+    {
+      "id": "C09_PLAY_DESK",
+      "caption": "Three actual actions inside My Play Desk: add a goal, write a note, export a backup. Your entries are saved in your browser rather than Rockstar/GTA VI game progress. Browser storage can be cleared, so export if you need a backup. Try free in @launchready_gaming bio. Independent fan-created planner. #GTA6 #PlayDesk #GamingPlanner",
+      "slides": [
+        {
+          "title": "PLAN YOUR\nFIRST SESSION",
+          "desc": "Three real things you can do in the free, spoiler-safe My Play Desk.",
+          "graphic": "desk",
+          "tag": "NO GAMEPLAY SPOILERS NEEDED",
+          "alt": "Opening Play Desk tutorial slide introduces three genuine actions in the independent LaunchReady browser tool: add a goal, save a note and export a backup."
+        },
+        {
+          "title": "01. ADD\nYOUR GOAL",
+          "desc": "Example: “Explore the Leonida coastline.” Add a goal and find it in your list.",
+          "screenshot": "desk_goal",
+          "tag": "YOUR GOALS ARE PERSONAL",
+          "alt": "Second slide shows an actual LaunchReady My Play Desk browser interaction after adding the example personal goal Explore the Leonida coastline to the goals list."
+        },
+        {
+          "title": "02. SAVE\nA PLAY NOTE",
+          "desc": "Write a reminder for later. The note remains in this browser while local data is retained.",
+          "screenshot": "desk_note",
+          "tag": "PRIVATE BROWSER NOTE",
+          "alt": "Third slide displays the real My Play Desk note field with example text about exploring coastal roads and keeping screenshots, demonstrating a user-written local note."
+        },
+        {
+          "title": "03. EXPORT\nA BACKUP",
+          "desc": "Use Export backup before clearing browser storage or switching devices. It is not a GTA VI save file.",
+          "screenshot": "desk_export",
+          "tag": "LOCAL BROWSER DATA  ≠  GAME SAVE",
+          "alt": "Fourth slide captures the genuine Export backup button in My Play Desk and explains exported planner data is separate from Rockstar’s in-game saves."
+        },
+        {
+          "title": "MAKE IT\nYOUR OWN",
+          "desc": "Goals, notes and a downloadable backup — free at LaunchReady Gaming.",
+          "graphic": "desk",
+          "tag": "@LAUNCHREADY_GAMING  →  BIO",
+          "alt": "Final slide recaps My Play Desk’s three functions: personal goals, written notes and an export backup. The free independent fan tool is reached through LaunchReady Gaming’s profile link."
+        }
+      ]
+    }
+  ],
+  "videos": [
+    {
+      "id": "V13_PHYSICAL",
+      "name": "No disc physical edition",
+      "hooks": [
+        "WAIT. GTA VI’s physical box has NO DISC?",
+        "Buying GTA VI physical? Check this first.",
+        "This GTA VI box contains a code, not a disc."
+      ],
+      "covers": [
+        "NO DISC?",
+        "CODE IN BOX"
+      ],
+      "destination": "/gta-6/guides/physical-code-in-box/",
+      "scenes": [
+        {
+          "title": "GTA VI BOX\nNO DISC?",
+          "desc": "Rockstar confirms the physical Standard Edition is code-in-box.",
+          "graphic": "box"
+        },
+        {
+          "title": "A BOX.\nA DOWNLOAD CODE.",
+          "desc": "No disc is included in the physical edition.",
+          "screenshot": "physical_initial"
+        },
+        {
+          "title": "PS5 REGION\nMATTERS",
+          "desc": "Code region must match the PlayStation account region group.",
+          "screenshot": "region_form"
+        },
+        {
+          "title": "CHECK YOUR\nCODE REGION",
+          "desc": "Actual input: UK account + North America code.",
+          "screenshot": "region_result"
+        },
+        {
+          "title": "CHECK BEFORE\nYOU BUY",
+          "desc": "Use the independent region checker and read the official FAQ.",
+          "screenshot": "region_result",
+          "cta": "FREE REGION CODE CHECKER"
+        }
+      ],
+      "caption_ig": "WAIT. GTA VI’s physical box has NO DISC?\n\nSee the source-linked, free LaunchReady tool from the link in @launchready_gaming bio. This is an independent fan resource, not Rockstar Games. Verify platform-specific details before buying. #GTA6 #GTAVI #LaunchReadyGaming",
+      "caption_yt": "WAIT. GTA VI’s physical box has NO DISC?\n\nOpen @LaunchReadyGaming profile → Free GTA VI Tools. Our independent guide: /gta-6/guides/physical-code-in-box/\nOfficial sources linked in our guide. Not affiliated with Rockstar Games. #GTA6 #GTAVI #Shorts",
+      "sources": [
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+        "https://www.rockstargames.com/newswire/article/89834o94713o21/pre-load-grand-theft-auto-vi-now",
+        "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations"
+      ]
+    },
+    {
+      "id": "V14_XBOX_ONE",
+      "name": "Xbox One cloud route",
+      "hooks": [
+        "GTA VI on Xbox One? YES — but here’s the catch.",
+        "Xbox One can stream GTA VI — not install it.",
+        "Stop looking for a native Xbox One GTA VI disc."
+      ],
+      "covers": [
+        "XBOX ONE?",
+        "CLOUD ONLY"
+      ],
+      "destination": "/gta-6/guides/xbox-cloud-play/",
+      "scenes": [
+        {
+          "title": "XBOX ONE?\nYES. WITH A CATCH.",
+          "desc": "Rockstar confirms Xbox Cloud Gaming compatibility.",
+          "graphic": "platform"
+        },
+        {
+          "title": "NOT A LOCAL\nINSTALLATION",
+          "desc": "Xbox One gets a streamed cloud experience, not a native game edition.",
+          "screenshot": "xbox_initial"
+        },
+        {
+          "title": "STREAMING\nDEPENDS ON NETWORK",
+          "desc": "Connection quality and cloud conditions can affect play.",
+          "graphic": "platform"
+        },
+        {
+          "title": "READ THE\nREAL REQUIREMENTS",
+          "desc": "Our source-linked Xbox Cloud Play guide explains the distinction.",
+          "screenshot": "xbox_initial"
+        },
+        {
+          "title": "CHECK YOUR\nPLAY OPTIONS",
+          "desc": "Free browser guide on LaunchReady Gaming.",
+          "screenshot": "xbox_initial",
+          "cta": "FREE XBOX CLOUD GUIDE"
+        }
+      ],
+      "caption_ig": "GTA VI on Xbox One? YES — but here’s the catch.\n\nSee the source-linked, free LaunchReady tool from the link in @launchready_gaming bio. This is an independent fan resource, not Rockstar Games. Verify platform-specific details before buying. #GTA6 #GTAVI #LaunchReadyGaming",
+      "caption_yt": "GTA VI on Xbox One? YES — but here’s the catch.\n\nOpen @LaunchReadyGaming profile → Free GTA VI Tools. Our independent guide: /gta-6/guides/xbox-cloud-play/\nOfficial sources linked in our guide. Not affiliated with Rockstar Games. #GTA6 #GTAVI #Shorts",
+      "sources": [
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+        "https://www.rockstargames.com/newswire/article/89834o94713o21/pre-load-grand-theft-auto-vi-now",
+        "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations"
+      ]
+    },
+    {
+      "id": "V15_EDITION",
+      "name": "Edition choice",
+      "hooks": [
+        "DON’T buy the wrong GTA VI edition.",
+        "Standard or Ultimate? Use this free comparison.",
+        "Ultimate bonuses vs Standard: decide with facts."
+      ],
+      "covers": [
+        "WRONG EDITION?",
+        "STANDARD / ULTIMATE"
+      ],
+      "destination": "/tools/edition-choice-helper/",
+      "scenes": [
+        {
+          "title": "STANDARD OR\nULTIMATE?",
+          "desc": "The core game is included in both.",
+          "graphic": "editions"
+        },
+        {
+          "title": "STANDARD =\nTHE GAME",
+          "desc": "Ultimate adds officially listed bonus content.",
+          "screenshot": "edition_form"
+        },
+        {
+          "title": "CHOOSE\nYOUR PRIORITY",
+          "desc": "Real selection: Ultimate + extra cosmetic and vehicle bonuses.",
+          "screenshot": "edition_result"
+        },
+        {
+          "title": "PREFER JUST\nTHE BASE GAME?",
+          "desc": "Switch to Standard. You can purchase the upgrade later.",
+          "screenshot": "edition_standard"
+        },
+        {
+          "title": "CHECK BEFORE\nBUYING",
+          "desc": "Our free Edition Choice Helper is informational, not a live price feed.",
+          "screenshot": "edition_result",
+          "cta": "FREE EDITION CHOICE HELPER"
+        }
+      ],
+      "caption_ig": "DON’T buy the wrong GTA VI edition.\n\nSee the source-linked, free LaunchReady tool from the link in @launchready_gaming bio. This is an independent fan resource, not Rockstar Games. Verify platform-specific details before buying. #GTA6 #GTAVI #LaunchReadyGaming",
+      "caption_yt": "DON’T buy the wrong GTA VI edition.\n\nOpen @LaunchReadyGaming profile → Free GTA VI Tools. Our independent guide: /tools/edition-choice-helper/\nOfficial sources linked in our guide. Not affiliated with Rockstar Games. #GTA6 #GTAVI #Shorts",
+      "sources": [
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+        "https://www.rockstargames.com/newswire/article/89834o94713o21/pre-load-grand-theft-auto-vi-now",
+        "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations"
+      ]
+    },
+    {
+      "id": "V16_PS5PRO",
+      "name": "PS5 Pro facts",
+      "hooks": [
+        "Is GTA VI actually 60 FPS on PS5 Pro?",
+        "Rockstar revealed PS5 Pro upgrades — but not 60 FPS.",
+        "PS5 Pro features: here’s what is confirmed."
+      ],
+      "covers": [
+        "60 FPS?",
+        "PS5 PRO FACTS"
+      ],
+      "destination": "/gta-6/guides/ps5-pro-gta-vi/",
+      "scenes": [
+        {
+          "title": "60 FPS ON\nPS5 PRO?",
+          "desc": "What did Rockstar actually confirm?",
+          "graphic": "platform"
+        },
+        {
+          "title": "30 FPS\nTARGET",
+          "desc": "Rockstar described a 30 frames-per-second target for the game.",
+          "screenshot": "ps5pro_initial"
+        },
+        {
+          "title": "PS5 PRO\nENHANCEMENTS",
+          "desc": "PSSR clarity improvements and exclusive ray-traced shadows.",
+          "graphic": "platform"
+        },
+        {
+          "title": "NO OFFICIAL\n60 FPS GUARANTEE",
+          "desc": "Do not confuse visual upgrades with a confirmed 60 FPS mode.",
+          "screenshot": "ps5pro_initial"
+        },
+        {
+          "title": "CHECK THE\nSOURCE",
+          "desc": "Our guide links to Rockstar’s statement.",
+          "screenshot": "ps5pro_initial",
+          "cta": "FREE PS5 PRO GUIDE"
+        }
+      ],
+      "caption_ig": "Is GTA VI actually 60 FPS on PS5 Pro?\n\nSee the source-linked, free LaunchReady tool from the link in @launchready_gaming bio. This is an independent fan resource, not Rockstar Games. Verify platform-specific details before buying. #GTA6 #GTAVI #LaunchReadyGaming",
+      "caption_yt": "Is GTA VI actually 60 FPS on PS5 Pro?\n\nOpen @LaunchReadyGaming profile → Free GTA VI Tools. Our independent guide: /gta-6/guides/ps5-pro-gta-vi/\nOfficial sources linked in our guide. Not affiliated with Rockstar Games. #GTA6 #GTAVI #Shorts",
+      "sources": [
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+        "https://www.rockstargames.com/newswire/article/89834o94713o21/pre-load-grand-theft-auto-vi-now",
+        "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations"
+      ]
+    },
+    {
+      "id": "V17_DESK",
+      "name": "Actual browser Play Desk",
+      "hooks": [
+        "Your GTA VI goals — saved in seconds.",
+        "Plan your first GTA VI session without spoilers.",
+        "One browser tool. Goals, notes and backup."
+      ],
+      "covers": [
+        "YOUR PLAY DESK",
+        "3 REAL ACTIONS"
+      ],
+      "destination": "/play-desk/",
+      "scenes": [
+        {
+          "title": "YOUR GTA VI\nPLAY DESK",
+          "desc": "Real browser interaction. Not a Rockstar game feature.",
+          "screenshot": "desk_empty"
+        },
+        {
+          "title": "01. ADD\nA GOAL",
+          "desc": "Example typed: Explore the Leonida coastline.",
+          "screenshot": "desk_goal"
+        },
+        {
+          "title": "02. SAVE\nA NOTE",
+          "desc": "Example typed: Check the coastal roads.",
+          "screenshot": "desk_note"
+        },
+        {
+          "title": "03. RETURN\nAND EXPORT",
+          "desc": "Entries remain in the local browser; export a backup.",
+          "screenshot": "desk_export"
+        },
+        {
+          "title": "PLAN THE\nNEXT SESSION",
+          "desc": "Free goals, notes and backup. Not your game save.",
+          "screenshot": "desk_return",
+          "cta": "FREE MY PLAY DESK"
+        }
+      ],
+      "caption_ig": "Your GTA VI goals — saved in seconds.\n\nSee the source-linked, free LaunchReady tool from the link in @launchready_gaming bio. This is an independent fan resource, not Rockstar Games. Verify platform-specific details before buying. #GTA6 #GTAVI #LaunchReadyGaming",
+      "caption_yt": "Your GTA VI goals — saved in seconds.\n\nOpen @LaunchReadyGaming profile → Free GTA VI Tools. Our independent guide: /play-desk/\nOfficial sources linked in our guide. Not affiliated with Rockstar Games. #GTA6 #GTAVI #Shorts",
+      "sources": [
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+        "https://www.rockstargames.com/newswire/article/89834o94713o21/pre-load-grand-theft-auto-vi-now",
+        "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations"
+      ]
+    },
+    {
+      "id": "V18_RADIO",
+      "name": "Radio Genre Finder",
+      "hooks": [
+        "Which GTA VI radio station are YOU?",
+        "Six official stations. Which genre matches you?",
+        "Metal, country, pop or Latin? Find your station."
+      ],
+      "covers": [
+        "YOUR GTA VI RADIO?",
+        "PICK YOUR GENRE"
+      ],
+      "destination": "/tools/radio-genre-finder/",
+      "scenes": [
+        {
+          "title": "WHICH GTA VI\nSTATION ARE YOU?",
+          "desc": "Rockstar previewed six stations across different genres.",
+          "graphic": "radio"
+        },
+        {
+          "title": "SIX OFFICIAL\nSTATIONS",
+          "desc": "Latin • Country • African music • Metal • Pop • Hip-hop.",
+          "screenshot": "radio_form"
+        },
+        {
+          "title": "CHOOSE\nMETAL",
+          "desc": "Select Metal to find The Chamber 106.6.",
+          "screenshot": "radio_result_metal"
+        },
+        {
+          "title": "CHOOSE\nLATIN",
+          "desc": "Select Latin for Cocoteo FM.",
+          "screenshot": "radio_result_latin"
+        },
+        {
+          "title": "FIND YOUR\nSTATION",
+          "desc": "Try the free Radio Genre Finder. No copyrighted songs played.",
+          "screenshot": "radio_result_latin",
+          "cta": "FREE RADIO GENRE FINDER"
+        }
+      ],
+      "caption_ig": "Which GTA VI radio station are YOU?\n\nSee the source-linked, free LaunchReady tool from the link in @launchready_gaming bio. This is an independent fan resource, not Rockstar Games. Verify platform-specific details before buying. #GTA6 #GTAVI #LaunchReadyGaming",
+      "caption_yt": "Which GTA VI radio station are YOU?\n\nOpen @LaunchReadyGaming profile → Free GTA VI Tools. Our independent guide: /tools/radio-genre-finder/\nOfficial sources linked in our guide. Not affiliated with Rockstar Games. #GTA6 #GTAVI #Shorts",
+      "sources": [
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+        "https://www.rockstargames.com/newswire/article/89834o94713o21/pre-load-grand-theft-auto-vi-now",
+        "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations"
+      ]
+    }
+  ],
+  "sources": [
+    "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+    "https://www.rockstargames.com/newswire/article/89834o94713o21/pre-load-grand-theft-auto-vi-now",
+    "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations"
+  ]
+}
