@@ -1,0 +1,1 @@
+PlayStation 5 stuck download troubleshooting. Sony recommends visiting Downloads/Uploads and trying Pause then Resume; checking PlayStation Network service status; and testing the console's internet connection. Use official PlayStation support before choosing a more disruptive cancel-and-redownload step, which would remove the existing download.

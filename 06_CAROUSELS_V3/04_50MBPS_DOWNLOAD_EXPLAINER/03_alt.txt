@@ -1,0 +1,1 @@
+Three factors can make a GTA VI download exceed the theoretical 9-hour-25-minute estimate at 50 Mbps. First, Wi-Fi quality and competing household traffic may lower real throughput. Second, platform download servers can be slower than the internet plan. Third, Rockstar's up-to-212-GB figure is device-dependent, so the actual transfer size might differ.

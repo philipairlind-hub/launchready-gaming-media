@@ -1,0 +1,1 @@
+Opening download calculation explainer asks how long a hypothetical 212 GB download takes over a 50 Mbps connection. In ideal conditions the answer is approximately 9 hours 25 minutes. The slide makes clear this is a best-case mathematical estimate, not the user's actual GTA VI download time.

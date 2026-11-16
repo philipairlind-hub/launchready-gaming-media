@@ -1,0 +1,1 @@
+PlayStation 5 insufficient-space troubleshooting. Rockstar says GTA VI can require up to 212 GB depending on device. First open PS5 Settings then Storage to inspect free space. Then check the game listing for the platform-specific required size and verify the installation destination. This slide does not guarantee that freeing a fixed amount of space resolves every error.

@@ -1,0 +1,1 @@
+Step-by-step theoretical calculation. File size 212 decimal gigabytes. Multiply by eight to obtain 1,696 gigabits. Divide 1,696,000 megabits by 50 megabits per second to get 33,920 seconds, equivalent to 9 hours, 25 minutes and 20 seconds. This assumes constant 50 Mbps throughput with no overhead.

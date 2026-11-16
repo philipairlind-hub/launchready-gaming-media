@@ -1,0 +1,467 @@
+[
+  {
+    "slug": "01_DOWNLOAD_TIME_CHEAT_SHEET",
+    "scheduled": "2026-11-17T13:15:00",
+    "old_id": "429797476",
+    "uuid": "-1563450761701274786",
+    "caption": "GTA VI DOWNLOAD TIME CHEAT SHEET — SAVE THIS.\n\nUsing 212 GB as a maximum-size example, perfect 24/7 download speeds give these estimates:\n50 Mbps ≈ 9h 25m\n100 Mbps ≈ 4h 43m\n250 Mbps ≈ 1h 53m\n500 Mbps ≈ 57m\n\nThese are theoretical minimums, NOT guaranteed GTA VI download times. Your actual download size, speed and network overhead can change the result.\n\nTry your own speed: https://launchready-gaming.philipairlind.chatgpt.site/download-calculator/\nOn Instagram: @launchready_gaming → Free GTA VI Tools in bio. Send this to someone still downloading on launch day.\n\nIndependent fan resource. #GTA6 #GTAVI #DownloadSpeed #PS5 #XboxSeriesX",
+    "sources": [],
+    "shared_sources": [
+      "https://www.rockstargames.com/newswire/article/89834o94713o21/pre-load-grand-theft-auto-vi-now",
+      "https://support.rockstargames.com/articles/M6h7B5fJZMwG1dnzQkt4Z/grand-theft-auto-vi-installation-requirements",
+      "https://support.rockstargames.com/articles/7nPqOA2uCbpEQHXx7KVrYd/grand-theft-auto-vi-pre-load-faq",
+      "https://support.rockstargames.com/articles/29jV3Cv2cCgvwM1XgtMO5o/grand-theft-auto-vi-regional-pre-load-and-release-times-on-playstation-5-and-xbox-series-x-or-s",
+      "https://www.playstation.com/en-us/support/games/troubleshoot-downloaded-playstation-game/",
+      "https://help.metricool.com/how-to-add-alt-text-to-your-images-using-ai-mkl42",
+      "https://help.metricool.com/schedule-and-post-on-instagram-6b6q5"
+    ],
+    "slides": [
+      {
+        "type": "hero",
+        "eyebrow": "01 / DOWNLOAD CHEAT SHEET",
+        "headline": "GTA VI\nDOWNLOAD\nTAKING FOREVER?",
+        "body": "What does 212 GB take at your internet speed? Swipe for the realistic planning checklist.",
+        "callout_title": "SAVE BEFORE LAUNCH",
+        "callout": "Quick comparison + free personal calculator on slide 4.",
+        "alt": "Opening slide for a GTA VI download time cheat sheet. Large text asks 'GTA VI download taking forever?' The comparison uses a hypothetical 212 GB download to help players estimate time at their own internet speeds. Swipe for speeds, caveats and a free calculator. Save the guide before launch."
+      },
+      {
+        "type": "table",
+        "eyebrow": "02 / MAXIMUM SPEED ASSUMPTION",
+        "headline": "212 GB AT\nYOUR SPEED",
+        "body": "Theoretical minimum using constant advertised Mbps. Not a promise of actual download performance.",
+        "rows": [
+          [
+            "50 Mbps",
+            "9h 25m"
+          ],
+          [
+            "100 Mbps",
+            "4h 43m"
+          ],
+          [
+            "250 Mbps",
+            "1h 53m"
+          ],
+          [
+            "500 Mbps",
+            "57m"
+          ],
+          [
+            "1,000 Mbps",
+            "28m"
+          ]
+        ],
+        "highlight_index": 0,
+        "foot": "212 decimal GB × 8 ÷ Mbps. Actual download sizes and throughput vary.",
+        "alt": "Download time comparison chart for a hypothetical 212 GB file, assuming a stable maximum connection speed: 50 Mbps takes approximately 9 hours 25 minutes; 100 Mbps, 4 hours 43 minutes; 250 Mbps, 1 hour 53 minutes; 500 Mbps, 57 minutes; and 1,000 Mbps, 28 minutes. The 50 Mbps row is highlighted. These are theoretical minimums, not guaranteed times."
+      },
+      {
+        "type": "steps",
+        "eyebrow": "03 / WHY REAL LIFE IS SLOWER",
+        "headline": "WHAT ADDS\nEXTRA HOURS?",
+        "body": "Theoretical speed is not the same as sustained console download speed.",
+        "steps": [
+          [
+            "Network load",
+            "Wi-Fi signal, household traffic and ISP congestion reduce throughput."
+          ],
+          [
+            "Download delivery",
+            "Platform servers, pauses and updates affect transfer time."
+          ],
+          [
+            "Actual size",
+            "Rockstar says up to 212 GB, depending on your console."
+          ]
+        ],
+        "foot": "Don't confuse Mbps (megabits) with MB/s (megabytes per second).",
+        "alt": "Three factors explain why actual GTA VI downloads can take longer than ideal estimates. First, network load: Wi-Fi quality, household devices and provider congestion can reduce throughput. Second, download delivery: platform servers, pauses and updates affect transfer speed. Third, actual size: Rockstar says GTA VI may require up to 212 GB depending on device. Mbps means megabits per second, whereas MB/s means megabytes per second."
+      },
+      {
+        "type": "screenshot",
+        "eyebrow": "04 / FREE TOOL",
+        "headline": "CALCULATE\nYOUR OWN TIME",
+        "body": "No guesswork: enter the speed you actually get and compare practical estimates.",
+        "screenshot": "speed-table.png",
+        "steps": [
+          [
+            "01 / OPEN",
+            "Tap the link in our Instagram bio."
+          ],
+          [
+            "02 / CHOOSE",
+            "Open the free download calculator."
+          ],
+          [
+            "03 / SAVE",
+            "Keep your estimate for launch day."
+          ]
+        ],
+        "alt": "Final slide promotes the free LaunchReady Gaming download calculator. A real mobile screenshot from the site's download speed table appears on the right as a preview of its design, not as a calculator result. Instructions: open the link in @launchready_gaming's Instagram bio, choose the free download calculator, and save your personal estimate for launch day. No download-time guarantee is made."
+      }
+    ]
+  },
+  {
+    "slug": "02_GTA_VI_LAUNCH_CHECKLIST",
+    "scheduled": "2026-11-18T12:45:00",
+    "old_id": "429797528",
+    "uuid": "-7864821243375041616",
+    "caption": "GTA VI LAUNCH CHECKLIST — save before November 19.\n\nCheck storage, confirm the pre-load, review your console account region, and find the official unlock time. Rockstar lists up to 212 GB depending on device and midnight local time on November 19 for PS5 and Xbox Series X|S.\n\nLaunchReady's free interactive checklist: https://launchready-gaming.philipairlind.chatgpt.site/tools/console-ready-checklist/\nInstagram: @launchready_gaming → Free GTA VI Tools in bio.\n\nIndependent fan guide; platform details may change. #GTAVI #GTA6 #LaunchChecklist #PS5 #XboxSeriesX",
+    "sources": [],
+    "slides": [
+      {
+        "type": "hero",
+        "eyebrow": "01 / LAUNCH NIGHT",
+        "headline": "GTA VI IS\nALMOST HERE.\nARE YOU READY?",
+        "body": "4 checks to do before November 19, 2026. Save now; use later.",
+        "callout_title": "4 CHECKS. 1 FREE TOOL.",
+        "callout": "Storage → preload → region → unlock time.",
+        "alt": "Opening GTA VI launch readiness checklist. Large text asks whether the player is ready for the November 19, 2026 release. Four checks are previewed in order: console storage, preload, account region, and unlock time. Save the checklist to use before launch."
+      },
+      {
+        "type": "steps",
+        "eyebrow": "02 / STORAGE",
+        "headline": "CHECK THE\nRIGHT STORAGE",
+        "body": "Rockstar lists up to 212 GB of required free space depending on console.",
+        "steps": [
+          [
+            "Open Storage",
+            "On PS5 go to Settings > Storage; on Xbox check console storage settings."
+          ],
+          [
+            "Compare free space",
+            "Check against your platform's displayed installation requirement."
+          ],
+          [
+            "Leave headroom",
+            "Updates and other games also consume space."
+          ]
+        ],
+        "alt": "Storage checklist for GTA VI. Rockstar states that up to 212 GB of available space may be required, depending on the device. On PS5, open Settings, then Storage. On Xbox, inspect console storage settings. Compare available space with your console's displayed installation requirement and leave room for system updates and other games."
+      },
+      {
+        "type": "steps",
+        "eyebrow": "03 / PRELOAD",
+        "headline": "CONFIRM THE\nPRELOAD IS THERE",
+        "body": "Rockstar opened GTA VI digital preloading on November 10, 2026.",
+        "steps": [
+          [
+            "PS5",
+            "Check Game Library and Downloads/Uploads for your pre-order."
+          ],
+          [
+            "Xbox Series X|S",
+            "Check the game queue and installation progress."
+          ],
+          [
+            "Automatic downloads",
+            "Check console settings, and allow Rest Mode / Sleep as supported."
+          ]
+        ],
+        "alt": "GTA VI preload checklist. Rockstar confirms preloading opened on November 10, 2026. On PS5 check the game in Game Library and Downloads/Uploads. On Xbox Series X or S check the game installation queue. If expecting automatic preloading, verify console auto-download settings and the appropriate Rest Mode or Sleep settings."
+      },
+      {
+        "type": "steps",
+        "eyebrow": "04 / LAUNCH TIME",
+        "headline": "DON'T GUESS\nYOUR UNLOCK",
+        "body": "Rockstar gives midnight LOCAL time on November 19 for PS5 and Xbox Series X|S.",
+        "steps": [
+          [
+            "Account region",
+            "Check the country or region associated with your console account."
+          ],
+          [
+            "Official listing",
+            "Verify the release timer and entitlement in your platform store."
+          ],
+          [
+            "Avoid VPN tricks",
+            "A different device clock does not itself change your account entitlement."
+          ]
+        ],
+        "alt": "GTA VI release time checklist. Rockstar states the game releases at midnight local time on November 19, 2026 on PlayStation 5 and Xbox Series X or S. Players should verify the region of the console account, check their platform's official store listing and entitlement, and not assume that changing the device clock changes unlock permission."
+      },
+      {
+        "type": "screenshot",
+        "eyebrow": "05 / FREE INTERACTIVE CHECKLIST",
+        "headline": "TICK EACH BOX.\nPLAY READY.",
+        "body": "Use the actual browser-based LaunchReady checklist rather than keeping this in your head.",
+        "screenshot": "ready-checklist.png",
+        "steps": [
+          [
+            "OPEN",
+            "Tap @launchready_gaming bio link."
+          ],
+          [
+            "SELECT",
+            "Choose Console Ready Checklist."
+          ],
+          [
+            "CHECK",
+            "Work through each item before launch."
+          ]
+        ],
+        "alt": "Last slide shows a real mobile screenshot of the LaunchReady Gaming Console Ready Checklist website, alongside its use instructions. Open the link in @launchready_gaming's Instagram bio, select Console Ready Checklist, and work through the checklist before launch. The tool is offered free as an independent GTA VI fan resource."
+      }
+    ]
+  },
+  {
+    "slug": "03_PS5_TROUBLESHOOTING",
+    "scheduled": "2026-11-19T16:00:00",
+    "old_id": "429797562",
+    "uuid": "8637144142327071080",
+    "caption": "PS5 GTA VI TROUBLESHOOTING: storage error, frozen preload or padlock?\n\nSwipe to separate three different problems. Storage: check Settings → Storage and the required space. Download frozen: try Downloads/Uploads → Pause → Resume, then check PSN and your network. Padlock: before unlock, waiting is normal; afterward confirm the purchasing account and license.\n\nFree, source-linked help: https://launchready-gaming.philipairlind.chatgpt.site/gta-6/guides/ps5-download-stuck/\nOfficial Sony support: https://www.playstation.com/en-us/support/games/troubleshoot-downloaded-playstation-game/\n\nSave for later. Results vary; no fix guaranteed. Independent fan resource. #GTA6 #GTAVI #PS5 #GamingHelp #PlayStation",
+    "sources": [],
+    "slides": [
+      {
+        "type": "hero",
+        "eyebrow": "01 / PS5 HELP",
+        "headline": "GTA VI\nSTUCK OR\nPADLOCKED?",
+        "body": "Storage error ≠ frozen download ≠ locked game. Identify your symptom first.",
+        "callout_title": "DON'T DELETE IT YET",
+        "callout": "Swipe for the official first checks.",
+        "alt": "Opening troubleshooting carousel for GTA VI on PlayStation 5. The headline asks whether the download is stuck or the game has a padlock. It distinguishes three separate symptoms: insufficient storage, frozen downloads and locked game access. The advice is not to delete a large download before checking the relevant first steps."
+      },
+      {
+        "type": "steps",
+        "eyebrow": "02 / STORAGE ERROR",
+        "headline": "NOT ENOUGH\nSPACE?",
+        "body": "Rockstar lists a maximum requirement of up to 212 GB, device-dependent.",
+        "steps": [
+          [
+            "Check PS5 Storage",
+            "Open Settings > Storage and look at available space."
+          ],
+          [
+            "Verify the size",
+            "Check the game's official product listing for your console."
+          ],
+          [
+            "Recheck destination",
+            "Confirm where the PS5 game is being installed."
+          ]
+        ],
+        "alt": "PlayStation 5 insufficient-space troubleshooting. Rockstar says GTA VI can require up to 212 GB depending on device. First open PS5 Settings then Storage to inspect free space. Then check the game listing for the platform-specific required size and verify the installation destination. This slide does not guarantee that freeing a fixed amount of space resolves every error."
+      },
+      {
+        "type": "steps",
+        "eyebrow": "03 / STUCK DOWNLOAD",
+        "headline": "DOWNLOAD\nNOT MOVING?",
+        "body": "Sony's official download troubleshooting recommends checking the queue and connection.",
+        "steps": [
+          [
+            "Pause / resume",
+            "Open PS5 Downloads/Uploads; select the item, pause and resume."
+          ],
+          [
+            "Check services",
+            "Check PlayStation Network status and test internet connection."
+          ],
+          [
+            "Only then escalate",
+            "Use Sony's support steps before cancelling and re-downloading."
+          ]
+        ],
+        "alt": "PlayStation 5 stuck download troubleshooting. Sony recommends visiting Downloads/Uploads and trying Pause then Resume; checking PlayStation Network service status; and testing the console's internet connection. Use official PlayStation support before choosing a more disruptive cancel-and-redownload step, which would remove the existing download."
+      },
+      {
+        "type": "steps",
+        "eyebrow": "04 / LOCKED GAME",
+        "headline": "PS5 PADLOCK\nON GTA VI?",
+        "body": "A successfully downloaded preload is not early access.",
+        "steps": [
+          [
+            "Before launch",
+            "Wait until the official November 19 local unlock."
+          ],
+          [
+            "After unlock",
+            "Confirm you are using the account that purchased the game."
+          ],
+          [
+            "License checks",
+            "Verify purchase and restore licenses if Sony support recommends it."
+          ]
+        ],
+        "alt": "PlayStation 5 padlock troubleshooting. A completed GTA VI preload does not make the game playable before its official November 19, 2026 local release time. Once the game should be available, confirm the signed-in account actually owns the purchase, verify the transaction, and follow Sony's restore-licenses instructions if the game remains locked."
+      },
+      {
+        "type": "screenshot",
+        "eyebrow": "05 / FREE SOURCE-LINKED HELP",
+        "headline": "SAVE THE\nPS5 HELP HUB",
+        "body": "Detailed steps and source links are on LaunchReady Gaming, free in your browser.",
+        "screenshot": "ps5-stuck.png",
+        "steps": [
+          [
+            "01",
+            "Open @launchready_gaming bio link."
+          ],
+          [
+            "02",
+            "Choose PS5 Download Stuck."
+          ],
+          [
+            "03",
+            "Follow the steps for your exact symptom."
+          ]
+        ],
+        "alt": "Final troubleshooting slide with a real mobile screenshot of LaunchReady Gaming's PS5 download-stuck guide. To access detailed instructions, open @launchready_gaming's Instagram profile, use the Free GTA VI Tools link in the bio and choose the PS5 Download Stuck guide. The resource includes guidance based on platform support, but no solution is guaranteed."
+      }
+    ]
+  },
+  {
+    "slug": "04_50MBPS_DOWNLOAD_EXPLAINER",
+    "scheduled": "2026-11-20T12:00:00",
+    "old_id": "429797591",
+    "uuid": "-2670385298542802804",
+    "caption": "50 Mbps internet. A hypothetical 212 GB download. How long?\n\nMath: 212 GB × 8 = 1,696 gigabits; at a constant 50 megabits/second, that's approximately 9 hours 25 minutes. This is a theoretical minimum—not a GTA VI download promise.\n\nReal download throughput, platform servers and actual file size make a difference.\n\nCheck your speed: https://launchready-gaming.philipairlind.chatgpt.site/download-calculator/\nOr visit @launchready_gaming → link in bio.\n\n#GTA6 #GTAVI #DownloadSpeed #GamingTools #PS5",
+    "sources": [],
+    "slides": [
+      {
+        "type": "hero",
+        "eyebrow": "01 / 50 MBPS EXPLAINED",
+        "headline": "50 MBPS\n+ 212 GB\n= HOW LONG?",
+        "body": "Spoiler: even an ideal connection needs hours. Here's the exact math.",
+        "callout_title": "ABOUT 9H 25M",
+        "callout": "That's a best-case calculation, not your actual ETA.",
+        "alt": "Opening download calculation explainer asks how long a hypothetical 212 GB download takes over a 50 Mbps connection. In ideal conditions the answer is approximately 9 hours 25 minutes. The slide makes clear this is a best-case mathematical estimate, not the user's actual GTA VI download time."
+      },
+      {
+        "type": "formula",
+        "eyebrow": "02 / DO THE MATH",
+        "headline": "HERE'S THE\nCALCULATION",
+        "rows": [
+          [
+            "File size",
+            "212 GB"
+          ],
+          [
+            "Convert to bits",
+            "1,696 Gb"
+          ],
+          [
+            "At 50 Mbps",
+            "33,920 sec"
+          ]
+        ],
+        "foot": "33,920 seconds = 9 hours, 25 minutes, 20 seconds. Decimal units; sustained 50 Mbps assumed. No overhead included.",
+        "alt": "Step-by-step theoretical calculation. File size 212 decimal gigabytes. Multiply by eight to obtain 1,696 gigabits. Divide 1,696,000 megabits by 50 megabits per second to get 33,920 seconds, equivalent to 9 hours, 25 minutes and 20 seconds. This assumes constant 50 Mbps throughput with no overhead."
+      },
+      {
+        "type": "steps",
+        "eyebrow": "03 / REAL-WORLD FACTORS",
+        "headline": "WHY IT MAY\nTAKE LONGER",
+        "body": "Your advertised plan speed is not the same as guaranteed download throughput.",
+        "steps": [
+          [
+            "Wi-Fi & local load",
+            "Distance from router and other devices can reduce real speed."
+          ],
+          [
+            "Server limits",
+            "Game delivery systems may run below your connection limit."
+          ],
+          [
+            "Actual install size",
+            "Rockstar's up to 212 GB figure varies by console."
+          ]
+        ],
+        "alt": "Three factors can make a GTA VI download exceed the theoretical 9-hour-25-minute estimate at 50 Mbps. First, Wi-Fi quality and competing household traffic may lower real throughput. Second, platform download servers can be slower than the internet plan. Third, Rockstar's up-to-212-GB figure is device-dependent, so the actual transfer size might differ."
+      },
+      {
+        "type": "screenshot",
+        "eyebrow": "04 / REPLACE THE GUESS",
+        "headline": "USE YOUR\nOWN SPEED",
+        "body": "The free calculator handles different download sizes and connection speeds.",
+        "screenshot": "speed-table.png",
+        "steps": [
+          [
+            "MEASURE",
+            "Find your real Mbps."
+          ],
+          [
+            "OPEN",
+            "Tap our link in Instagram bio."
+          ],
+          [
+            "CALCULATE",
+            "LaunchReady Download Calculator."
+          ]
+        ],
+        "alt": "Closing slide for the 50 Mbps explainer. A screenshot of the actual LaunchReady Gaming download-speed comparison website is shown on the right. To estimate an individual download, measure your connection's Mbps speed, open the link in @launchready_gaming's Instagram bio, and select the free Download Calculator. Actual download times may be longer than theoretical figures."
+      }
+    ]
+  },
+  {
+    "slug": "05_SPOILER_SAFE_PLAY_DESK",
+    "scheduled": "2026-11-21T14:00:00",
+    "old_id": "429797641",
+    "uuid": "-9052966200137005787",
+    "caption": "Planning your first GTA VI session, without searching through spoiler-heavy walkthroughs?\n\nMeet My Play Desk: a free independent browser tool for organizing your personal session goals and notes. It doesn't block spoilers elsewhere on the internet; it simply gives you a place to plan without story-specific walkthrough spoilers.\n\nTry it: https://launchready-gaming.philipairlind.chatgpt.site/play-desk/\nOn Instagram: @launchready_gaming → Free GTA VI Tools in bio.\n\nSave this for your first session. #GTA6 #GTAVI #SpoilerFree #GamingTools #FirstPlay",
+    "sources": [],
+    "slides": [
+      {
+        "type": "hero",
+        "eyebrow": "01 / FIRST SESSION",
+        "headline": "PLAN GTA VI.\nSKIP STORY\nSPOILERS.",
+        "body": "Your first session should be your story. Organize goals and notes without browsing plot walkthroughs.",
+        "callout_title": "FREE: MY PLAY DESK",
+        "callout": "See the real tool on slide 3.",
+        "alt": "Opening slide introduces LaunchReady Gaming's My Play Desk, a free personal planner for GTA VI play sessions. It suggests planning goals and notes without consulting story-specific walkthroughs. The tool does not claim to block spoilers on other websites or social platforms. A real preview appears on slide three."
+      },
+      {
+        "type": "steps",
+        "eyebrow": "02 / WHAT IT DOES",
+        "headline": "YOUR OWN\nSESSION SPACE",
+        "body": "An independent planning tool, not a Rockstar gameplay feature.",
+        "steps": [
+          [
+            "Set a goal",
+            "Decide what you want to do in your next session."
+          ],
+          [
+            "Keep notes",
+            "Record ideas and reminders in one browser page."
+          ],
+          [
+            "Stay self-directed",
+            "Avoid searching story walkthroughs just to make a plan."
+          ]
+        ],
+        "alt": "Three uses for the independent My Play Desk tool: set a goal for a future GTA VI session; keep personal ideas and reminders on one browser page; and plan independently rather than searching story walkthroughs. The slide clarifies that My Play Desk is an external LaunchReady tool, not an in-game Rockstar feature."
+      },
+      {
+        "type": "screenshot",
+        "eyebrow": "03 / REAL WEBSITE PREVIEW",
+        "headline": "THIS IS THE\nACTUAL TOOL",
+        "body": "An on-site screenshot, not a mock GTA VI interface or leaked game asset.",
+        "screenshot": "play-desk.png",
+        "steps": [
+          [
+            "OPEN",
+            "Load free My Play Desk."
+          ],
+          [
+            "PLAN",
+            "Add your own session goals."
+          ],
+          [
+            "RETURN",
+            "Come back when you need notes."
+          ]
+        ],
+        "alt": "Real mobile screenshot of the LaunchReady Gaming My Play Desk browser page on the right. The screenshot is from the external LaunchReady website, not from GTA VI gameplay. The instructions shown on the left are to open the free My Play Desk, add personal goals, and return to the page when you need your notes."
+      },
+      {
+        "type": "hero",
+        "eyebrow": "04 / FREE & SPOILER-LIGHT",
+        "headline": "YOUR FIRST\nPLAY. YOUR\nOWN PLAN.",
+        "body": "Try My Play Desk from the Free GTA VI Tools link in @launchready_gaming's Instagram bio.",
+        "callout_title": "SAVE + SHARE",
+        "callout": "Send this to the friend who hates story spoilers.",
+        "alt": "Final My Play Desk call to action: plan your first GTA VI session with the free independent browser tool. To access it, open @launchready_gaming on Instagram and choose Free GTA VI Tools in the bio, then My Play Desk. Save this carousel or share it with someone who prefers avoiding story spoilers."
+      }
+    ]
+  }
+]

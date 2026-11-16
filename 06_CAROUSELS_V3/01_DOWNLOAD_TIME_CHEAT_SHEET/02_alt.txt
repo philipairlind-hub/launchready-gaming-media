@@ -1,0 +1,1 @@
+Download time comparison chart for a hypothetical 212 GB file, assuming a stable maximum connection speed: 50 Mbps takes approximately 9 hours 25 minutes; 100 Mbps, 4 hours 43 minutes; 250 Mbps, 1 hour 53 minutes; 500 Mbps, 57 minutes; and 1,000 Mbps, 28 minutes. The 50 Mbps row is highlighted. These are theoretical minimums, not guaranteed times.

@@ -1,0 +1,8 @@
+PS5 GTA VI TROUBLESHOOTING: storage error, frozen preload or padlock?
+
+Swipe to separate three different problems. Storage: check Settings → Storage and the required space. Download frozen: try Downloads/Uploads → Pause → Resume, then check PSN and your network. Padlock: before unlock, waiting is normal; afterward confirm the purchasing account and license.
+
+Free, source-linked help: https://launchready-gaming.philipairlind.chatgpt.site/gta-6/guides/ps5-download-stuck/
+Official Sony support: https://www.playstation.com/en-us/support/games/troubleshoot-downloaded-playstation-game/
+
+Save for later. Results vary; no fix guaranteed. Independent fan resource. #GTA6 #GTAVI #PS5 #GamingHelp #PlayStation
